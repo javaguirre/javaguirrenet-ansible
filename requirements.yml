@@ -4,3 +4,6 @@
 
 - name: nodejs
   src: debops.nodejs
+
+- name: ghost
+  src: https://github.com/javaguirre/ghost-ansible

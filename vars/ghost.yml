@@ -3,5 +3,6 @@
 ghost_user: vagrant
 ghost_install_dir: /home/vagrant/ghost
 
+ghost_production: true
 ghost_production_url: 'http://javaguirre.net'
 ghost_production_host: '127.0.0.1'
