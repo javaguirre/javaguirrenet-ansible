@@ -1,0 +1,6 @@
+---
+- name: nginx
+  src: https://github.com/jdauphant/ansible-role-nginx
+
+- name: nodejs
+  src: debops.nodejs

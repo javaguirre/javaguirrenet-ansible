@@ -1,0 +1,14 @@
+---
+- name: Javaguirre.net
+  hosts: all
+  remote_user: vagrant
+  sudo: true
+
+  vars_files:
+    - vars/nginx.yml
+    - vars/ghost.yml
+
+  roles:
+    - nodejs
+    - ghost
+    - nginx
