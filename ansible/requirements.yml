@@ -2,8 +2,7 @@
 - name: nginx
   src: https://github.com/jdauphant/ansible-role-nginx
 
-- name: nodejs
-  src: debops.nodejs
+- src: debops.nodejs
 
 - name: ghost
   src: https://github.com/javaguirre/ghost-ansible
