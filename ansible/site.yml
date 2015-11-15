@@ -9,6 +9,6 @@
     - vars/ghost.yml
 
   roles:
-    - nodejs
+    - debops.nodejs
     - ghost
     - nginx
