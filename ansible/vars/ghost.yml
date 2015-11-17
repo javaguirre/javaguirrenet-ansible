@@ -8,7 +8,7 @@ ghost_production_url: 'http://javaguirre.net'
 ghost_production_host: '127.0.0.1'
 
 # Custom Theme
-ghost_custom_theme: yes
+ghost_custom_theme: no
 ghost_custom_theme_name: "plattan"
 ghost_custom_theme_repo: "git@bitbucket.org:javaguirre/plattan.git"
 ghost_custom_theme_branch: "master"
